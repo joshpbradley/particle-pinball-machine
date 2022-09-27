@@ -1,6 +1,6 @@
 # Particle Pinball Machine
 
-Project completed in 2022.
+Project completed in 2022 - year 4 of MSci Computer Science degree.
 
 This project gamifies the emission of energetic solar radiation, with the aim of the game being to cause as much disruption to the Earth's technology as possible. The emitted radiation interacts with the Earth's atmosphere, causing a scattering of particles - with more particles colliding with the Earth representing a larger potential for disruption.
 
