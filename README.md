@@ -29,3 +29,5 @@ When used on a system that does not support the Microsoft Kinect, the swipe can 
 ![almost-outcome](https://user-images.githubusercontent.com/48052531/233479522-8bc0cb26-b8d2-4ea3-aeee-167bdea34b89.png)
 
 ![outcome](https://user-images.githubusercontent.com/48052531/233479536-82488b58-ab5a-4719-b673-29834b44a322.png)
+
+A video demonstration of gameplay is available at: https://youtu.be/OyGsDMf2QYw
