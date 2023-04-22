@@ -16,7 +16,7 @@ The player's aim is to swipe as fast as possible, while timing the swipe so that
 
 When used on a system that does not support the Microsoft Kinect, the swipe can be bypassed using the space bar. Without the ability to swipe, the aim is to simply time the pressing of the space bar so that the Sun is in its most energetic state. 
 
-**SCREENSHOTS**
+**GALLERY**
 
 ![pre-swipe](https://user-images.githubusercontent.com/48052531/233479424-db90c70a-0481-49a1-a004-4fcc12d65f9d.png)
 
